@@ -1,0 +1,50 @@
+.mainhead{
+    color: white;
+    text-align: center;
+}
+
+.header{
+    background-image: url("https://sun9-67.userapi.com/Z-XFR-B6Gb4phnuPmEd7I_FVVnWTrAkM5FxGgQ/jnmjedXTv9U.jpg");
+    box-shadow: 1px 1px 15px 5px rgb(34, 34, 34);
+    vertical-align: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height:100px;
+}
+
+.carousel{
+    margin-left: 25%;
+}
+
+.box2{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    font-size: 250%;
+    font-weight: 500;
+}
+
+.bd-callout{
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 1.0rem solid var(--bd-callout-border, var(--bs-gray-300))
+}
+
+.bd-callout-info {
+    --bd-callout-bg: rgba(var(--bs-info-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-info-rgb), .5);
+}
+
+.box1{
+    border: 4px solid rgb(133, 11, 182);
+    border-radius: 10px;
+}
