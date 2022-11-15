@@ -21,6 +21,10 @@
     margin-left: 25%;
 }
 
+div.center{
+    margin: 0 auto;
+}
+
 .box2{
     text-align: center;
 }
